@@ -1,0 +1,22 @@
+Step1:Clone the repository
+
+Command: git clone <URL>
+
+It will create directory based upon the git URL.
+we need to change directory to the above directory the code 
+
+Step 2:to get the other changed code from the git 
+
+Command:git pull orgin <branch name>
+Default brancg will be Master only
+
+Step 3: to add the changes to the code 
+ Comans:git add * 
+
+to commit the changes :git commit -m "<msg>"
+
+
+To push the changes to remote
+
+git push origin <branch name>
+
